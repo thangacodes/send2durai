@@ -71,6 +71,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42">
 </a>
 
+<a href="https://openai.com/" title="OpenAI Codex">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"
+    alt="OpenAI Codex"
+    width="42"
+    height="42"
+  />
+</a>
+
 <h2>⚡️ Where to find me</h2>
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/thangadurai350/" style="display: inline-block;">
